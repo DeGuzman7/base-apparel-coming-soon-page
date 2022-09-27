@@ -155,6 +155,7 @@ button:hover{
     }
     .hero-img.desktop{
         height: 100vh;
+        width: 100vh;
 
         
     }
@@ -164,8 +165,7 @@ button:hover{
         object-fit: cover;
         position: center;
         float: right;
-       
-      
+       width: 100%;
     }
     .hero-section{
         display: grid;
